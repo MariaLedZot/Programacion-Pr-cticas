@@ -9,7 +9,7 @@ public class T4E1 {
         Scanner sc = new Scanner(System.in);
 
         // Preguntar el día de la semana
-        System.out.println("Introduce un día de la semana y te diré qué asignatura toca a primera hora ese día: ");
+        System.out.print("Introduce un día de la semana y te diré qué asignatura toca a primera hora ese día: ");
 
         // Guardar el día de la semana introducido
         String dia = sc.nextLine();
