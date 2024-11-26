@@ -1,5 +1,3 @@
-package Tema5;
-
 public class T5E3 {
     public static void main(String[] args) {
         int i = 0;

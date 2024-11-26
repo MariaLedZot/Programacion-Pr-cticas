@@ -1,5 +1,3 @@
-package Tema5;
-
 // Abrir el Scanner
 import java.util.Scanner;
 
